@@ -15,10 +15,10 @@ public class MainClass {
     public static void main(String[] args) {
 
         //Пузырьковая сортировка
-//        task1();
+        task1();
 
         //Бинарный алгоритм поиска
-//        task2();
+        task2();
 
         //Шейкерная сортировка
         task3();
